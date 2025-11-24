@@ -1,0 +1,7 @@
+{
+  "name": "Mahabharatham Doubt Assistant",
+  "description": "A real-time voice assistant in Tamil specifically designed to answer questions and clarify doubts regarding the Mahabharatham epic using Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
